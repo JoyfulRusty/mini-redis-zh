@@ -1,8 +1,8 @@
 # mini-redis-zh
-mini-redis-zh源码中文注释
+mini-redis中文源码学习
 
 ## 项目介绍
-本项目是[mini-redis](https://github.com/JasonLai256/mini-redis)的中文注释版本，旨在帮助理解redis源码。
+本项目是[mini-redis](https://github.com/tokio-rs/mini-redis)的中文注释版本，旨在帮助理解redis源码。
 
 ## 项目结构
 本项目包含以下文件：
